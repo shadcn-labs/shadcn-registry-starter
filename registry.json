@@ -1,6 +1,6 @@
 {
-  "name": "shadcn/registry-kit",
-  "homepage": "https://shadcn-registry-kit.vercel.app",
+  "name": "startercn",
+  "homepage": "https://github.com/shadcn-labs/startercn",
   "items": [
     {
       "name": "your-component",
